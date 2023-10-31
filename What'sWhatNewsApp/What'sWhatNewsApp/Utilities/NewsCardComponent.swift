@@ -36,7 +36,6 @@ struct NewsCardComponent: View {
                             .fill(.red)
                             .frame(width: 8, height: 8)
                             .padding(.trailing, 8)
-                        Spacer()
                     } else {
                         Spacer()
                         Circle()
