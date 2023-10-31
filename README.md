@@ -22,14 +22,15 @@ What'sWhatNews is a personal project that has allowed me to expand my skills in 
 
 Click on the link below to see a demo of the app. I will try keep the demo updated as I continue to tinker with new features. 
 
--- ADD LINK/Video HERE-- 
+https://drive.google.com/file/d/1p1qsDQDLPsp7AgqMqsa_4V5ztyUFbmUP/view?usp=share_link
+
 
 ## Getting Started:
 
 To start using What'sWhatNews:
 
 1. Clone this repository.
-2. **Important**: As a security measure, we've removed the API key. You will need to obtain your own API key from [newsapi.org](https://newsapi.org) and add it to the `NewsManager` class's private API variable in the project.
+2. **Important**: As a security measure, I removed the API key. You will need to obtain your own API key from [newsapi.org](https://newsapi.org) and add it to the `NewsManager` class's private API variable in the project.
 
 Now, you're all set to explore, stay informed, and enjoy the benefits of What'sWhatNews. I hope you find this app both informative and educational.
 
